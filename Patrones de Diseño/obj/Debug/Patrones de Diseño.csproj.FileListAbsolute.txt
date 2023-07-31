@@ -1,0 +1,8 @@
+C:\Users\Junho\Desktop\Programs\Patrones de Diseño\Patrones de Diseño\bin\Debug\Patrones de Diseño.exe.config
+C:\Users\Junho\Desktop\Programs\Patrones de Diseño\Patrones de Diseño\bin\Debug\Patrones de Diseño.exe
+C:\Users\Junho\Desktop\Programs\Patrones de Diseño\Patrones de Diseño\bin\Debug\Patrones de Diseño.pdb
+C:\Users\Junho\Desktop\Programs\Patrones de Diseño\Patrones de Diseño\obj\Debug\Patrones de Diseño.csproj.AssemblyReference.cache
+C:\Users\Junho\Desktop\Programs\Patrones de Diseño\Patrones de Diseño\obj\Debug\Patrones de Diseño.csproj.SuggestedBindingRedirects.cache
+C:\Users\Junho\Desktop\Programs\Patrones de Diseño\Patrones de Diseño\obj\Debug\Patrones de Diseño.csproj.CoreCompileInputs.cache
+C:\Users\Junho\Desktop\Programs\Patrones de Diseño\Patrones de Diseño\obj\Debug\Patrones de Diseño.exe
+C:\Users\Junho\Desktop\Programs\Patrones de Diseño\Patrones de Diseño\obj\Debug\Patrones de Diseño.pdb
